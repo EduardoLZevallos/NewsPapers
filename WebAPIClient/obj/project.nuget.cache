@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZX9mDOTMjUs4DmCp2EkyPyIYUiQnxXW8MTrZYNs7Gh05ySFjYtdj0680mEhm2pqALTM0sYKhaVjcRuR1qL1XKg==",
+  "success": true,
+  "projectFilePath": "/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/WebAPIClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/iwishiwerewindows/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfo.cs
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/bin/Debug/net6.0/WebAPIClient
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/bin/Debug/net6.0/WebAPIClient.deps.json
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/bin/Debug/net6.0/WebAPIClient.runtimeconfig.json
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/bin/Debug/net6.0/WebAPIClient.dll
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/bin/Debug/net6.0/ref/WebAPIClient.dll
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/bin/Debug/net6.0/WebAPIClient.pdb
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.CopyComplete
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.dll
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/ref/WebAPIClient.dll
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.pdb
+/Users/iwishiwerewindows/Projects/Assignment_5/Assignment_5/WebAPIClient/obj/Debug/net6.0/WebAPIClient.genruntimeconfig.cache
